@@ -1,0 +1,13 @@
+.transport-img{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    padding: 20px;
+}
+.transport-card{
+    border-radius: 15px;
+}
+.transport-card:hover{
+    cursor: pointer;
+}
+
